@@ -11,3 +11,7 @@ for customer in range(0, cust_count):
     Orange_Qty = input("How many oranges do you want? ")
     Amt = (Apple_Qty * vegList['apple']) + (Banana_Qty * vegList['banana']) + (Orange_Qty * vegList['orange'])
     print('The amount to be paid is: ' + str(Amt))
+
+    print("Hello World")
+
+
