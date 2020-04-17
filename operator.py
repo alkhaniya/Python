@@ -10,3 +10,13 @@ print("Division of A & B is: " + str(a/b))
 print("Mod of A & B is: " + str(a%b))
 print("Expo of A & B is: " + str(a**b))
 print("Floor of A & B is: " + str(a//b))
+
+#Comparision Operators (==,!=,<=,>=,>,<)
+
+print(a==b)
+print(a!=b)
+print(a<=b)
+print(a>=b)
+print(a>b)
+print(a<b)
+
