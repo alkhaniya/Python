@@ -16,7 +16,7 @@ j=0
 while i<10:
     j=0
     while j<10:
-        print(str(i) + str(j))
+        print(str(i) + str(j) ),
         #print(j)
         j+=1
     i+=1
