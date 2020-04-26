@@ -1,6 +1,6 @@
 
 n = int(input("Enter "))
-x = range(n+1)
 
-for i in x:
+for i in range(2,n+1,2):
     print(i)
+        
